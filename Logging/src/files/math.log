@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-10-16T03:10:03.507512100Z</date>
+  <millis>1729048203507</millis>
+  <nanos>512100</nanos>
+  <sequence>0</sequence>
+  <logger>org.acumen.training.codes.Mathematics</logger>
+  <level>INFO</level>
+  <class>org.acumen.training.codes.Mathematics</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>start of add with params: 10 20</message>
+</record>
+<record>
+  <date>2024-10-16T03:10:03.546136600Z</date>
+  <millis>1729048203546</millis>
+  <nanos>136600</nanos>
+  <sequence>1</sequence>
+  <logger>org.acumen.training.codes.Mathematics</logger>
+  <level>INFO</level>
+  <class>org.acumen.training.codes.Mathematics</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>the sum is 29</message>
+</record>
+<record>
+  <date>2024-10-16T03:10:03.547137900Z</date>
+  <millis>1729048203547</millis>
+  <nanos>137900</nanos>
+  <sequence>2</sequence>
+  <logger>org.acumen.training.codes.Mathematics</logger>
+  <level>WARNING</level>
+  <class>org.acumen.training.codes.Mathematics</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>used a deprecated Integer wrapping</message>
+</record>
+<record>
+  <date>2024-10-16T03:10:03.550136600Z</date>
+  <millis>1729048203550</millis>
+  <nanos>136600</nanos>
+  <sequence>3</sequence>
+  <logger>org.acumen.training.codes.Mathematics</logger>
+  <level>INFO</level>
+  <class>org.acumen.training.codes.Mathematics</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>end of add</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-10-16T03:10:27.896167600Z</date>
+  <millis>1729048227896</millis>
+  <nanos>167600</nanos>
+  <sequence>0</sequence>
+  <logger>org.acumen.training.codes.Mathematics</logger>
+  <level>INFO</level>
+  <class>org.acumen.training.codes.Mathematics</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>start of add with params: 10 20</message>
+</record>
+<record>
+  <date>2024-10-16T03:10:27.922231400Z</date>
+  <millis>1729048227922</millis>
+  <nanos>231400</nanos>
+  <sequence>1</sequence>
+  <logger>org.acumen.training.codes.Mathematics</logger>
+  <level>INFO</level>
+  <class>org.acumen.training.codes.Mathematics</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>the sum is 29</message>
+</record>
+<record>
+  <date>2024-10-16T03:10:27.923231700Z</date>
+  <millis>1729048227923</millis>
+  <nanos>231700</nanos>
+  <sequence>2</sequence>
+  <logger>org.acumen.training.codes.Mathematics</logger>
+  <level>WARNING</level>
+  <class>org.acumen.training.codes.Mathematics</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>used a deprecated Integer wrapping</message>
+</record>
+<record>
+  <date>2024-10-16T03:10:27.924233100Z</date>
+  <millis>1729048227924</millis>
+  <nanos>233100</nanos>
+  <sequence>3</sequence>
+  <logger>org.acumen.training.codes.Mathematics</logger>
+  <level>INFO</level>
+  <class>org.acumen.training.codes.Mathematics</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>end of add</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-10-16T03:10:33.563351200Z</date>
+  <millis>1729048233563</millis>
+  <nanos>351200</nanos>
+  <sequence>0</sequence>
+  <logger>org.acumen.training.codes.Mathematics</logger>
+  <level>INFO</level>
+  <class>org.acumen.training.codes.Mathematics</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>start of add with params: 10 20</message>
+</record>
+<record>
+  <date>2024-10-16T03:10:33.592049Z</date>
+  <millis>1729048233592</millis>
+  <nanos>49000</nanos>
+  <sequence>1</sequence>
+  <logger>org.acumen.training.codes.Mathematics</logger>
+  <level>INFO</level>
+  <class>org.acumen.training.codes.Mathematics</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>the sum is 29</message>
+</record>
+<record>
+  <date>2024-10-16T03:10:33.593046800Z</date>
+  <millis>1729048233593</millis>
+  <nanos>46800</nanos>
+  <sequence>2</sequence>
+  <logger>org.acumen.training.codes.Mathematics</logger>
+  <level>WARNING</level>
+  <class>org.acumen.training.codes.Mathematics</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>used a deprecated Integer wrapping</message>
+</record>
+<record>
+  <date>2024-10-16T03:10:33.594047800Z</date>
+  <millis>1729048233594</millis>
+  <nanos>47800</nanos>
+  <sequence>3</sequence>
+  <logger>org.acumen.training.codes.Mathematics</logger>
+  <level>INFO</level>
+  <class>org.acumen.training.codes.Mathematics</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>end of add</message>
+</record>
+</log>
+Oct 16, 2024 11:12:52 AM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 11:12:52 AM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 11:12:52 AM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 11:12:52 AM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 11:12:57 AM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 11:12:57 AM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 11:12:57 AM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 11:12:57 AM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 11:13:09 AM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 11:16:06 AM org.acumen.training.codes.Mathematics add
+SEVERE: negative x and y encountered
+Oct 16, 2024 11:16:06 AM org.acumen.training.codes.Mathematics add
+SEVERE: negative x and y encountered
+Oct 16, 2024 11:16:06 AM org.acumen.training.codes.Mathematics add
+SEVERE: negative x and y encountered
+Oct 16, 2024 11:16:06 AM org.acumen.training.codes.Mathematics add
+SEVERE: negative x and y encountered
+Oct 16, 2024 11:16:06 AM org.acumen.training.codes.Mathematics add
+SEVERE: negative x and y encountered
+Oct 16, 2024 11:16:55 AM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 11:16:55 AM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 11:16:55 AM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 11:16:55 AM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 11:16:55 AM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 1:26:58 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 1:26:59 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 1:50:26 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 2:13:27 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 2:28:24 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 2:29:26 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 2:29:26 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 2:29:26 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 2:29:26 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 2:29:26 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 2:29:26 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 2:29:26 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 2:29:26 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 2:29:26 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 2:29:26 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 2:29:26 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 2:29:26 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 2:29:26 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 2:29:27 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 2:29:27 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 2:29:27 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
+Oct 16, 2024 2:29:27 PM org.acumen.training.codes.Mathematics add
+INFO: start of add with params: 10 20
+Oct 16, 2024 2:29:27 PM org.acumen.training.codes.Mathematics add
+INFO: the sum is 29
+Oct 16, 2024 2:29:27 PM org.acumen.training.codes.Mathematics add
+WARNING: used a deprecated Integer wrapping
+Oct 16, 2024 2:29:27 PM org.acumen.training.codes.Mathematics add
+INFO: end of add
