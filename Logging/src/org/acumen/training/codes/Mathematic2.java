@@ -1,3 +1,7 @@
+/*
+ * This is a sample Guinea pig class.
+ */
+
 package org.acumen.training.codes;
 
 import org.apache.logging.log4j.LogManager;
